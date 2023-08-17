@@ -99,7 +99,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=yogeesh-s&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+	[![Yogeesh S's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeesh-s)](https://github.com/yogeesh-s/github-readme-activity-graph)
   <br/>
 </details>
 
@@ -117,3 +117,4 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </p>
 
 [![@yogeesh-s's Holopin board](https://holopin.io/api/user/board?user=yogeesh-s)](https://holopin.io/@yogeesh-s)
+
