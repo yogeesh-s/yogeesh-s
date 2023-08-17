@@ -96,12 +96,12 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<details>
+<!--<details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 	[![Yogeesh S's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeesh-s)](https://github.com/yogeesh-s/github-readme-activity-graph)
   <br/>
-</details>
+</details>-->
 
 <!-- https://github.com/sisodiya2421 -->
 
@@ -116,5 +116,4 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 	<a href="mailto:yashita.namdeo2000@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-[![@yogeesh-s's Holopin board](https://holopin.io/api/user/board?user=yogeesh-s)](https://holopin.io/@yogeesh-s)
 
